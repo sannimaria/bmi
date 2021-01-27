@@ -1,0 +1,11 @@
+[33mcommit 4ea3204df8cc95d54e691894456f6fd28e9fe074[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: sanni ristimella <n0risa00@students.oamk.fi>
+Date:   Wed Jan 27 19:40:55 2021 +0200
+
+    Finished example.
+
+[33mcommit 46fa6e4f10ce6c90106fc90c8166fe7a64127382[m
+Author: sanni ristimella <n0risa00@students.oamk.fi>
+Date:   Wed Jan 27 19:05:20 2021 +0200
+
+    Initialize project using Create React App

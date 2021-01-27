@@ -22,7 +22,7 @@ function App() {
         <input type="number" value={height} onChange={e => setHeight(e.target.value)}></input>
      </div>
      <div>
-        <label>Weight</label>
+        <label>Weightt</label>
         <input type="number" value={weight} onChange={e => setWeight(e.target.value)}/>
      </div>
       <div>
